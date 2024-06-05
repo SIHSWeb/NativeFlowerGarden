@@ -172,9 +172,9 @@ h5 {
 }
 
 
-h7 {
+h7 {	align: center;
 	font-size:50px;
-	padding-left:500px;
+	padding-left:530px;
 	line-height:70px;
 	padding-bottom:30px;
 	font-family:"Platypi";
