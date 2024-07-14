@@ -146,8 +146,8 @@ h5 {
 .border{
 	background-color:rgb(210,241,211);
    border:3px solid rgb(63,96,66);
-   margin-left:400px;
-	margin-right:400px;
+   margin-left:100px;
+	margin-right:100px;
 	margin-top:20px;
 	margin-bottom:20px;
 }
@@ -172,7 +172,7 @@ h5 {
 }
 
 
-h7 {	
+h7 {
 	font-size:50px;
 	padding-left:530px;
 	line-height:70px;
@@ -204,5 +204,9 @@ h8 {
 
 .bold{
 	color:rgb(65,145,102);
+}
+
+th, td {
+  padding: 15px;
 }
 
