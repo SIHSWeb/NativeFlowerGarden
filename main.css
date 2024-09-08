@@ -206,7 +206,14 @@ h8 {
 	color:rgb(65,145,102);
 }
 
+
 th, td {
   padding: 15px;
+}
+
+.tbl_heading {
+	#color:rgb(85, 3, 248);
+	font-size: 25px;
+	font-weight: bold;
 }
 
